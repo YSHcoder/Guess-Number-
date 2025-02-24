@@ -1,2 +1,2 @@
-# Guess-Number-
+# Guess-Number
  guessing game
